@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1637653196 source:c:\users\jmque\onedrive - estudiantes itcr\tec\ii semestre\estructuras de datos\code\proyecto1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"AVLTreeDictionary.h"
+	"Trie.h"
+	"MaxHeap.h"
+	"ArrayList.h"
+	"DLinkedList.h"
+	<time.h>
+	<windows.h>
+	<bits/stdc++.h>
+
+1637648702 c:\users\jmque\onedrive - estudiantes itcr\tec\ii semestre\estructuras de datos\code\proyecto1\include\avltreedictionary.h
+	<stdexcept>
+	<iostream>
+	"Dictionary.h"
+	"AVLTree.h"
+	"DLinkedList.h"
+	"KVPair.h"
+
+1637648702 c:\users\jmque\onedrive - estudiantes itcr\tec\ii semestre\estructuras de datos\code\proyecto1\include\dictionary.h
+	"List.h"
+
+1637648702 c:\users\jmque\onedrive - estudiantes itcr\tec\ii semestre\estructuras de datos\code\proyecto1\include\list.h
+
+1637648702 c:\users\jmque\onedrive - estudiantes itcr\tec\ii semestre\estructuras de datos\code\proyecto1\include\avltree.h
+	"BSTNode.h"
+	"DLinkedList.h"
+	"List.h"
+	<stdexcept>
+
+1637648702 c:\users\jmque\onedrive - estudiantes itcr\tec\ii semestre\estructuras de datos\code\proyecto1\include\bstnode.h
+
+1637648702 c:\users\jmque\onedrive - estudiantes itcr\tec\ii semestre\estructuras de datos\code\proyecto1\include\dlinkedlist.h
+	"List.h"
+	"DNode.h"
+	<stdexcept>
+
+1637648771 c:\users\jmque\onedrive - estudiantes itcr\tec\ii semestre\estructuras de datos\code\proyecto1\include\dnode.h
+
+1637648702 c:\users\jmque\onedrive - estudiantes itcr\tec\ii semestre\estructuras de datos\code\proyecto1\include\kvpair.h
+	<iostream>
+
+1637648702 c:\users\jmque\onedrive - estudiantes itcr\tec\ii semestre\estructuras de datos\code\proyecto1\include\trie.h
+	<string>
+	<iostream>
+	<stdexcept>
+	"TrieNode.h"
+	"UnsortedArrayDictionary.h"
+	"MaxHeap.h"
+
+1637648702 c:\users\jmque\onedrive - estudiantes itcr\tec\ii semestre\estructuras de datos\code\proyecto1\include\trienode.h
+	"AVLTreeDictionary.h"
+	"DLinkedList.h"
+
+1637648702 c:\users\jmque\onedrive - estudiantes itcr\tec\ii semestre\estructuras de datos\code\proyecto1\include\maxheap.h
+	<stdexcept>
+	<iostream>
+	"List.h"
+	"DLinkedList.h"
+
+1637648702 c:\users\jmque\onedrive - estudiantes itcr\tec\ii semestre\estructuras de datos\code\proyecto1\include\arraylist.h
+	"List.h"
+	<stdexcept>
+
+1637648702 c:\users\jmque\onedrive - estudiantes itcr\tec\ii semestre\estructuras de datos\code\proyecto1\include\unsortedarraydictionary.h
+	"Dictionary.h"
+	"ArrayList.h"
+	"DLinkedList.h"
+	"KVPair.h"
+	<stdexcept>
+	<iostream>
+
